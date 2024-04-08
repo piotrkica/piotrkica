@@ -43,9 +43,9 @@
 
 📓 BIO
 ---
-- 🔭 I’m currently finishing my BSc in Computer Science at AGH UST
+- 🔭 I’m currently finishing my MSc in Computer Science at AGH UST
 - ☁️ I’m currently learning cloud technologies like there is no tomorrow
-- 🏢 Working at: [Sano](https://sano.science/) as a Junior Scientific Programmer
+- 🏢 Working at: [Sano](https://sano.science/) as a Scientific Programmer
 - 🚀 Future goals: Learn Terraform
 - 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/piotr-kica-398aaa207/)**
 - ⚡ Fun fact: Fork-bombed myself once by accident :D
